@@ -6,3 +6,4 @@ fun main(){
     println(tom.hhh)
     println("12412")
 }
+fun hi(){}
