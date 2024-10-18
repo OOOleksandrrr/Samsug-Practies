@@ -4,4 +4,5 @@ fun main(){
     val tom = Person("Tom")
     tom.age = 100
     println(tom.hhh)
+    println("12412")
 }
